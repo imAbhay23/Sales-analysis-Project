@@ -1,0 +1,84 @@
+# Sales Performance Analysis Dashboard
+
+## Project Overview
+This project analyzes retail sales data to understand business performance, profitability, and customer behavior. The goal is to identify trends in sales, profit, and discount usage to help businesses make better decisions.
+
+The dashboard was built using Power BI and explores key performance metrics across regions, categories, customers, and time.
+
+---
+
+## Tools Used
+- Power BI
+- SQL
+- Excel
+- Power Query
+- DAX
+
+---
+
+## Dataset
+The dataset contains transactional sales data including:
+
+- Order Date
+- Region
+- Category
+- Sub-category
+- Customer Name
+- Sales
+- Quantity
+- Discount
+- Profit
+
+Each row represents a single sales transaction.
+
+---
+
+## Business Questions Answered
+
+1. How have sales and profit changed over time?
+2. Which product categories generate the highest revenue?
+3. Which regions contribute the most to overall sales?
+4. Who are the top customers by sales and discount received?
+5. Which products generate high sales but low profit?
+6. How do discounts affect profitability?
+
+---
+
+## Key Insights
+
+- Sales are increasing over time but profit growth is relatively slow.
+- Some product categories generate high revenue but low profit margins.
+- Certain customers receive significantly higher discounts than others.
+- A few products drive a large portion of total sales.
+- Some regions perform better in sales but not necessarily in profitability.
+
+---
+
+## Dashboard Features
+
+The Power BI dashboard includes:
+
+- KPI cards for Total Sales, Profit, and Profit Margin
+- Sales and Profit trend analysis over time
+- Category and Sub-category performance
+- Regional sales comparison
+- Top customers by sales and discount
+- Interactive filters for region, category, and time
+
+---
+
+## Dashboard Preview
+
+
+---
+
+## Project Outcome
+
+This analysis helps businesses:
+
+- Identify profitable product categories
+- Understand regional performance
+- Monitor discount strategies
+- Recognize high-value customers
+
+The dashboard provides a clear view of sales performance and helps support data-driven decision making.
